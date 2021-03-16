@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manooi
 - 👀 I’m interested in coding.
-- 💞️ I’m looking to collaborate on notyet.
+- 💞️ I’m looking to collaborate on not yet.
 - 🌱 I’m currently learning web development.
 - 📫 How to reach me ...
 
